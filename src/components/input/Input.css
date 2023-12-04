@@ -1,0 +1,54 @@
+.input__box{
+    width: 700px;
+    margin:42px auto;
+    padding: 24px 64px;
+    background-color:#d8d9df;
+    border-radius: 34px;
+  }
+  
+  .input__box h4{
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 35px;
+  letter-spacing: 0em;
+  text-align: left;
+  
+  }
+  
+  .input__box p{
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-bottom: 16px;
+  
+  }
+  
+  form{
+   display:flex;
+   flex-direction: column;
+  }
+  
+  form label{
+    margin-bottom: 16px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 48px;
+  }
+  
+  form input{
+    width: 284px;
+    border-radius: 46px;
+    padding: 21px 20px;
+    border: none;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  
+  }

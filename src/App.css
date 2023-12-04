@@ -1,0 +1,64 @@
+
+.container{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.title{
+  border-radius: 18px;
+  background-color: #fff;
+  margin-top: 50px;
+}
+
+.title h1{
+  padding: 36px 0px;
+  text-align: center;
+font-size: 24px;
+font-weight: 700;
+line-height: 35px;
+letter-spacing: 0em;
+}
+
+.requirement{
+  margin-top: 110px;
+  color: #fff;
+}
+
+.requirement h2{
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 46px;
+  letter-spacing: 0em;
+  text-align: center;
+  
+}
+
+.requirement p{
+  margin: 0% auto;
+  width: 517px;
+font-size: 18px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+
+
+.btn{
+  background: linear-gradient(#9E96F2, #EC31F0);
+  width: 137px;
+  border-radius: 56px;
+  border: none;
+  color: #fff;
+  padding: 20px 40px;
+font-size: 24px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0px;
+text-align: center;
+margin-top: 68px;
+margin-left:220px;
+cursor: pointer;
+}
